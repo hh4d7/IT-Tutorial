@@ -8,7 +8,7 @@ The tutorial is designed to give the audience an understanding of how Bluetooth 
 #### Target Audience
 The tutorial is designed for people who have no or little knowledge about Bluetooth technology.
 
-
+[IT Tutorial](Tutorial.md)
 
 
 
