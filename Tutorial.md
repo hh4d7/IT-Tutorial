@@ -65,7 +65,8 @@ When a group of  Bluetooth devices are exchanging information together, they cre
    The easiest preventative way is to *turn off* Bluetooth on your devices when you do not need to connect other devices. Cyber thieves cannot target your devices if your Bluetooth connectivity is off.
    Also, it is important to keep updating Bluetooth driver, wchih might close off potential exploit loops.
 
-[回到顶部](#readme)
+[Back to the top](#readme)
+
 For more information: 
 [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth#Devices),[Cybrary](https://www.cybrary.it/2018/07/bluetooth-security-risks/)
 
